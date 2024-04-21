@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">github</string>
+    <string name="search_hint">Masukkan Nama</string>
+    <string name="example_username">username</string>
+    <string name="title_activity_detail_user">DetailUser</string>
+    <string name="tab_text_1">Followers</string>
+    <string name="tab_text_2">Following</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="_500_following">%d Following</string>
+    <string name="_500_followers">%d Followers</string>
+    <string name="tab_followers_dan_following">Tab Followers dan Following</string>
+    <string name="fab_description">add and delete to favorite</string>
+    <string name="favorite_menu">Favorite</string>
+    <string name="setting_menu">Settings</string>
+    <string name="menu_search">Menu Search</string>
+    <string name="dark_mode">Dark Mode</string>
+</resources>
